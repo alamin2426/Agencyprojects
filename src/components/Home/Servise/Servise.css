@@ -1,0 +1,39 @@
+.boxes{
+    display: flex;
+    margin: 100px 150px;
+    /* border: 2px solid red; */
+    padding: 20px;
+}
+.div-mini{
+    border: 2px solid black;
+    margin: 50px 50px;
+    background-color: #000;
+    color: #ffffff;
+    padding: 60px;
+    text-align:justify;
+}
+.div-mini h1{
+font-size: 30px;
+font-weight: 600;
+padding-bottom: 20px;
+}
+.div-mini img{
+    width: 100px;
+    background-color: #FFC700;
+    border-radius: 50%;
+    margin-left: -110px;
+}
+
+.dives{
+    /* margin: 20px; */
+    
+}
+
+.divose h1{
+    text-align: end;
+    font-size: 40px;
+    font-weight: 800;
+}
+span{
+    color: #FFC700;
+}
